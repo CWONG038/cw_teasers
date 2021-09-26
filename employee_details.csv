@@ -1,0 +1,25 @@
+﻿employee_id,employee_name,position,department,manager_name,login_password
+12-0001,Ariel Ng,Manager,Marketing,Ariel Ng,arielng_12-0001
+12-1234,Alice Tan,Employee,Marketing,Ariel Ng,alicetan_12-1234
+12-1235,Tom Lim,Employee,Marketing,Ariel Ng,tomlim_12-1235
+12-1236,John Wong,Employee,Marketing,Ariel Ng,johnwong_12-1236
+13-0002,Chai Xin Ying,Manager,Human Resource,Chai Xin Ying,chaixinying_13-0002
+13-1237,Athena Ng,Employee,Human Resource,Chai Xin Ying,athenang_13-1237
+13-1238,Alice Tan,Employee,Human Resource,Chai Xin Ying,alicetan_13-1238
+13-1239,Patricia Koh,Employee,Human Resource,Chai Xin Ying,patriciakoh_13-1239
+14-0003,Chrislyn Wong,Manager,Finance,Chrislyn Wong,chrislynwong_14-0003
+14-1240,Nicole Lim,Employee,Finance,Chrislyn Wong,nicolelim_14-1240
+14-1241,Michael Chua ,Employee,Finance,Chrislyn Wong,michaelchua_14-1241
+14-1242,Natalie Lee,Employee,Finance,Chrislyn Wong,natalielee_14-1242
+15-0004,May Kant Kaw,Manager,Supply Chain,May Kant Kaw,maykantkaw_15-0004
+15-1243,Muhammad Ali,Employee,Supply Chain,May Kant Kaw,muhammadali_15-1243
+15-1244,Muthu Khatri,Employee,Supply Chain,May Kant Kaw,muthukhatri_15-1244
+15-1245,Joey Lim,Employee,Supply Chain,May Kant Kaw,joeylim_15-1245
+16-0005,Natasha Tan,Manager,Business Development,Natasha Tan,natashatan_16-0005
+16-1246,Samantha Ng,Employee,Business Development,Natasha Tan,samanthang_16-1246
+16-1247,Claire Wong,Employee,Business Development,Natasha Tan,clairewong_16-1247
+16-1248,Clarice Tan,Employee,Business Development,Natasha Tan,claricetan_16-1248
+17-0006,Ng Yok Yen,Manager,IT,Ng Yok Yen,ngyokyen_17-0006
+17-1249,Nurul Binte Aishah,Employee,IT,Ng Yok Yen,nurulbinteaishah_17-1249
+17-1250,Trina Low,Employee,IT,Ng Yok Yen,trinalow_17-1250
+17-1251,Tricia Tay,Employee,IT,Ng Yok Yen,triciatay_17-1251

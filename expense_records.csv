@@ -1,0 +1,9 @@
+﻿employee_id,employee_name,department,expense_category,project_code,project_remarks,amount_spent,status,spending_date,date_submitted
+12-0001,ariel,Marketing,1,11111,1,"$1,111.00",Pending,2011-01-01,26-09-21
+12-1234,alice,Marketing,1,11111,1,"$1.00",Pending,2011-01-01,26-09-21
+12-1235,tom,Marketing,1,11111,1,"$1.00",Pending,2011-01-01,26-09-21
+13-0002,xinying,Human Resource,1,11111,1,"$1.00",Pending,2011-01-01,26-09-21
+13-1238,allce,Human Resource,1,11111,1,"$1.00",Pending,2011-01-01,26-09-21
+13-1238,allce,Human Resource,1,11111,1,"$1.00",Pending,2011-01-01,26-09-21
+14-0003,chrislyn,Finance,1,11111,1,"$1.00",Pending,2011-01-01,26-09-21
+14-1242,natalie,Finance,1,11111,1,"$1.00",Pending,2011-01-01,26-09-2112-0001,1,1,1,11111,1,$1.00,Pending,2012-01-01,26-09-21

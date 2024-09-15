@@ -6,25 +6,22 @@ Created on Tue Sep 21 12:22:25 2021
 """
 
 
-
 def format_amount(amount):
-    result = 0
+    raw_result = None
     while True:
         try:
-            result = "${:,.2f}".format(float(input(amount)))
-            
+            raw_result = float(input(amount))
         except ValueError:
-            if result != float():
-                result = "${:,.2f}".format(float(input(amount)))
-            print("Please enter a valid number.")
-      
+            print("Please enter a valid number again.")
         else:
-             return result
+            if isinstance(raw_result, float):
+                return "${:.2f}".format(raw_result)
 
 
-            
-amount_spent = format_amount("Enter spending amount")
-print(amount_spent)
+def main():
+    amount_spent = format_amount("Enter spending amount: ")
+    print(amount_spent)
 
 
-
+if __name__ == "__main__":
+    main()
